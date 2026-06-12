@@ -1,22 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kritarth%20Bijalwann&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Specialist%20%E2%80%A2%20Enterprise%20Product%20Architect&descAlignY=58&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kritarth%20Bijalwann&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20%2F%20DevOps%20%E2%80%A2%20Enterprise%20Product%20Architect&descAlignY=55&descSize=15&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Architecting+Enterprise-Grade+Systems;Multi-Tenant+SaaS+%7C+Cloud+Orchestration;Full-Stack+Engineering+%7C+DevOps+%7C+Docker;Building+Scalable+Distributed+Platforms)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![B.Tech IT](https://img.shields.io/badge/B.Tech%20Information%20Technology-Manipal%20University%20Jaipur-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/India-302b63?style=flat-square&logo=googlemaps&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=680&lines=Architecting+Enterprise-Grade+Systems;Multi-Tenant+SaaS+%7C+Cloud+Orchestration;Full-Stack+Engineering+%7C+DevOps+%7C+Docker;Building+Scalable+Distributed+Platforms;Open+to+Full-time+SWE+%7C+Cloud+%7C+DevOps+Roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,13 +14,23 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+![B.Tech IT](https://img.shields.io/badge/B.Tech%20Information%20Technology-Manipal%20University%20Jaipur-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
+&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/📍%20India-302b63?style=flat-square&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritarth-bijalwann)
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritarth-bijalwann)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Insert-Email)
+[![Email](https://img.shields.io/badge/◈%20Email-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaybe05)
+[![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaybe05)
 
 </div>
 
@@ -42,9 +42,11 @@
 &nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/kaybe05?style=flat-square&color=5B21B6&label=Followers&logo=github)](https://github.com/kaybe05?tab=followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/kaybe05?style=flat-square&color=4C1D95&label=Total+Stars&logo=github)](https://github.com/kaybe05)
+[![GitHub Stars](https://img.shields.io/github/stars/kaybe05?style=flat-square&color=4C1D95&label=Total+Stars&logo=github)](https://github.com/kaybe05?tab=repositories)
 
 </div>
+
+<br/>
 
 ---
 
@@ -52,23 +54,25 @@
 
 <br/>
 
-I am a Software Engineer specializing in the **design, architecture, and deployment of scalable, enterprise-grade applications**. With a strong product engineering mindset, I bridge the gap between high-performance backend infrastructure and intuitive user experiences — taking ideas from whiteboard diagrams to production-grade systems.
+I am a Software Engineer specializing in the **design, architecture, and deployment of scalable, enterprise-grade applications**. With a strong product engineering mindset, I bridge the gap between high-performance backend infrastructure and intuitive user experiences — taking ideas from whiteboard diagrams to production systems that operate reliably under real load.
 
-My expertise spans the **complete software development lifecycle**: from conceptualizing complex system architectures using UML and distributed system patterns, to orchestrating cloud environments and shipping multi-tenant SaaS platforms that operate reliably under real load.
+My expertise spans the **complete software development lifecycle**: conceptualizing complex system architectures using UML and distributed system patterns, orchestrating cloud environments, and shipping multi-tenant SaaS platforms from scratch. I approach engineering holistically — I care as much about the correctness of a database schema as the responsiveness of a UI component.
 
-I approach engineering holistically — I care as much about the correctness of a database schema as I do about the responsiveness of a UI component. I build with **Docker, Linux, and Python** on the backend and **React, Vite, and Tailwind** on the frontend, with a strong emphasis on clean API design, containerized deployments, and infrastructure that doesn't become a liability as it scales.
+I build with **Docker, Linux, and Python** on the backend and **React, Vite, and Tailwind** on the frontend, with a strong emphasis on clean API design, containerized deployments, and infrastructure that doesn't become a liability as it scales.
 
 <br/>
 
 <div align="center">
 
 | 🎯 Open To | Details |
-|---|---|
-| **Full-time Roles** | Software Engineering (Backend / Full-Stack) |
+|:---|:---|
+| **Full-time Roles** | Software Engineering — Backend / Full-Stack |
 | **Cloud & DevOps** | Cloud-native, containerization, orchestration positions |
 | **Product Engineering** | Startup or enterprise environments building complex platforms |
 
 </div>
+
+<br/>
 
 ---
 
@@ -76,43 +80,33 @@ I approach engineering holistically — I care as much about the correctness of 
 
 <br/>
 
-**Languages**
-
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark)](https://skillicons.dev)
+**Languages**
 
-</div>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark&perline=6)](https://skillicons.dev)
 
 <br/>
 
 **Frontend Engineering**
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-</div>
+[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark&perline=6)](https://skillicons.dev)
 
 <br/>
 
 **Backend & Databases**
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,sqlite,mysql,mongodb&theme=dark)](https://skillicons.dev)
-
-</div>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,django,sqlite,mysql,mongodb&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
 **Cloud, DevOps & Tooling**
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode,kubernetes,postman&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode,kubernetes,postman&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
+
+<br/>
 
 ---
 
@@ -123,13 +117,15 @@ I approach engineering holistically — I care as much about the correctness of 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Containerization** | `▰▰▰▰▰ Advanced` | Designing isolated, scalable environments using Docker. Managing multi-container architectures via Docker Compose |
-| **Cloud Orchestration** | `▰▰▰▰▰ Advanced` | Orchestrating enterprise-grade SaaS environments, handling multi-tenant resource management and dynamic provisioning |
+|:---|:---:|:---|
+| **Containerization** | `▰▰▰▰▰ Advanced` | Designing isolated, scalable environments using Docker; managing multi-container architectures via Docker Compose |
+| **Cloud Orchestration** | `▰▰▰▰▰ Advanced` | Orchestrating enterprise-grade SaaS environments; multi-tenant resource management and dynamic provisioning |
 | **CI/CD & Deployment** | `▰▰▰▰░ Intermediate` | Automated workflow optimization, environment configuration, and deployment strategies for Python/Node.js stacks |
 | **Infrastructure Management** | `▰▰▰▰▰ Advanced` | Configuring secure SSH access, remote IDE setups, and real-time telemetry integration |
 
 </div>
+
+<br/>
 
 ---
 
@@ -138,7 +134,7 @@ I approach engineering holistically — I care as much about the correctness of 
 <br/>
 
 <details>
-<summary><b>☁ CloudX — Enterprise Cloud Orchestration Platform</b></summary>
+<summary><b>&nbsp;☁&nbsp; CloudX — Enterprise Cloud Orchestration Platform</b></summary>
 
 <br/>
 
@@ -149,12 +145,12 @@ The multi-tenant architecture enforces strict workspace isolation: each tenant o
 <br/>
 
 | Attribute | Details |
-|-----------|---------|
+|:---|:---|
 | **Stack** | Python, React, Vite, Docker, Glassmorphism UI |
-| **Scale** | Multi-tenant SaaS architecture with isolated per-user workspace provisioning |
+| **Scale** | Multi-tenant SaaS with isolated per-user workspace provisioning |
 | **Performance** | Real-time telemetry with sub-second terminal responsiveness |
 | **Security** | Container-level isolation, scoped resource limits, secure inter-service communication |
-| **Impact** | Full lifecycle containerization from provisioning to teardown, academic recognition |
+| **Impact** | Full lifecycle containerization from provisioning to teardown; academic recognition |
 | **Repository** | [kaybe05/cloud-collab-platform](https://github.com/kaybe05/cloud-collab-platform) |
 
 <br/>
@@ -164,23 +160,23 @@ The multi-tenant architecture enforces strict workspace isolation: each tenant o
 ---
 
 <details>
-<summary><b>🗺 DIAS — Disaster Information Aggregation System</b></summary>
+<summary><b>&nbsp;🗺&nbsp; DIAS — Disaster Information Aggregation System</b></summary>
 
 <br/>
 
-A comprehensive geospatial web platform engineered to address a critical real-world problem: the fragmentation of information during disaster response operations. DIAS centralizes volunteer coordination, resource tracking, and situational awareness into a single, interactive mapping interface powered by Leaflet.js.
+A comprehensive geospatial web platform engineered to address a critical real-world problem: the fragmentation of information during disaster response operations. DIAS centralizes volunteer coordination, resource tracking, and situational awareness into a single interactive mapping interface powered by Leaflet.js.
 
-The platform was designed with emergency responders and regional coordinators as the primary users — people who need reliable, fast, and geographically accurate data when time directly translates to lives. Aggregation pipelines pull incident data into a structured SQLite backend, surfaced through a Flask API and rendered on live interactive maps.
+The platform was designed with emergency responders and regional coordinators as primary users — people who need reliable, fast, and geographically accurate data when time directly translates to lives. Aggregation pipelines pull incident data into a structured SQLite backend, surfaced through a Flask API and rendered on live interactive maps.
 
 <br/>
 
 | Attribute | Details |
-|-----------|---------|
+|:---|:---|
 | **Stack** | Flask, Python, JavaScript, Leaflet Maps, SQLite |
 | **Scale** | Regional emergency response mapping and multi-unit coordination |
 | **Performance** | Low-latency map rendering for real-time incident overlays |
 | **Security** | Role-scoped data visibility, incident write access controls |
-| **Impact** | Demonstrated geospatial engineering for high-stakes coordination workflows |
+| **Impact** | Geospatial engineering applied to high-stakes coordination workflows |
 | **Repository** | [kaybe05/disaster-information-aggregation-system](https://github.com/kaybe05/disaster-information-aggregation-system) |
 
 <br/>
@@ -190,7 +186,7 @@ The platform was designed with emergency responders and regional coordinators as
 ---
 
 <details>
-<summary><b>🛍 Bari Foods — Full-Stack E-Commerce Platform</b></summary>
+<summary><b>&nbsp;🛍&nbsp; Bari Foods — Full-Stack E-Commerce Platform</b></summary>
 
 <br/>
 
@@ -201,12 +197,12 @@ The backend was built on Django REST Framework, exposing a clean and versioned A
 <br/>
 
 | Attribute | Details |
-|-----------|---------|
+|:---|:---|
 | **Stack** | Django REST Framework, Vanilla JavaScript, HTML/CSS |
 | **Scale** | Commercial storefront with dynamic inventory and order processing |
-| **Performance** | Optimized API response times, asynchronous client-side rendering |
+| **Performance** | Optimized API response times; asynchronous client-side rendering |
 | **Security** | Secure checkout pipeline, authenticated user sessions, CSRF protection |
-| **Impact** | Delivered to a live commercial client; end-to-end custom-built solution |
+| **Impact** | Delivered to a live commercial client as a solo end-to-end build |
 | **Repository** | [kh-co/bari-foods](https://github.com/kh-co/bari-foods) |
 
 <br/>
@@ -216,28 +212,30 @@ The backend was built on Django REST Framework, exposing a clean and versioned A
 ---
 
 <details>
-<summary><b>🏫 CampusHive — Digital Bulletin Platform</b></summary>
+<summary><b>&nbsp;🏫&nbsp; CampusHive — Digital Bulletin Platform</b></summary>
 
 <br/>
 
-An institutional communication platform engineered to replace fragmented, informal announcement channels used across university campuses. CampusHive solves a real friction point in academic environments: students needed a centralized, always-accessible feed of official updates — without requiring account registration to browse — while administrators needed strict publishing controls.
+An institutional communication platform engineered to replace fragmented informal announcement channels used across university campuses. CampusHive solves a real friction point in academic environments: students needed a centralized, always-accessible feed of official updates without authentication barriers, while administrators needed strict publishing controls.
 
-The architecture is built around a unified backend object model in Flask, with RBAC enforced at the route level. Public-facing announcement browsing requires no authentication, while content creation and management is locked behind role-verified sessions. Clean, minimal, and purpose-built.
+The architecture is built around a unified backend object model in Flask, with RBAC enforced at the route level. Public-facing browsing requires no authentication, while content creation is locked behind role-verified sessions. Clean, minimal, and purpose-built.
 
 <br/>
 
 | Attribute | Details |
-|-----------|---------|
+|:---|:---|
 | **Stack** | Flask, Python, SQLite |
 | **Scale** | Institutional deployment, multi-role user base |
 | **Performance** | Lightweight, fast-loading bulletin delivery |
 | **Security** | Role-Based Access Control (RBAC), session-authenticated admin publishing |
-| **Impact** | Streamlines campus-wide communication with zero authentication friction for students |
+| **Impact** | Zero-friction student access with hardened admin control layer |
 | **Architecture** | Unified backend object design; strict separation of public and admin surfaces |
 
 <br/>
 
 </details>
+
+<br/>
 
 ---
 
@@ -246,7 +244,7 @@ The architecture is built around a unified backend object model in Flask, with R
 <br/>
 
 **Software Developer (Freelance)**
-`Bari Foods` · `Aug 2025 – Jan 2026`
+`Bari Foods` &nbsp;·&nbsp; `Aug 2025 – Jan 2026`
 
 Engaged as the sole engineer to design, build, and deploy a complete commercial e-commerce platform from requirements through production. Owned the full technical stack with no existing codebase to inherit.
 
@@ -268,16 +266,16 @@ Engaged as the sole engineer to design, build, and deploy a complete commercial 
 ---
 
 **Project Lead & Architect (Academic PBL)**
-`Manipal University Jaipur` · `2025 – 2026`
+`Manipal University Jaipur` &nbsp;·&nbsp; `2025 – 2026`
 *Mentored by Mr. Anurag Bhatnagar*
 
-Led the architecture and development of **CloudX**, an enterprise-grade containerization and cloud orchestration platform, as the principal engineer and project lead for a Problem-Based Learning initiative at Manipal University Jaipur.
+Led the architecture and development of **CloudX**, an enterprise-grade containerization and cloud orchestration platform, as principal engineer and project lead for a Problem-Based Learning initiative.
 
 - Architected the multi-tenant backend infrastructure, designing the resource isolation and provisioning model that defines CloudX's core value
 - Orchestrated isolated Docker environments with runtime management, scoped resource limits, and inter-container networking
-- Integrated Monaco Editor into the platform for in-browser, remote code execution with a full IDE-like experience
-- Designed and built interactive web terminals connected to live container sessions, enabling real-time remote development workflows
-- Modeled the full system architecture using UML and PlantUML diagrams prior to implementation
+- Integrated Monaco Editor into the platform for in-browser remote code execution with a full IDE-like experience
+- Designed and built interactive web terminals connected to live container sessions for real-time remote development workflows
+- Modeled the full system architecture using UML and PlantUML prior to implementation
 
 <br/>
 
@@ -288,6 +286,8 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 ![Linux](https://img.shields.io/badge/Linux-302b63?style=flat-square&logo=linux&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-302b63?style=flat-square&logo=kubernetes&logoColor=white)
 
+<br/>
+
 ---
 
 ## ◈ Achievements
@@ -297,13 +297,15 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 <div align="center">
 
 | Recognition | Details |
-|-------------|---------|
-| **Technical Placements Excellence** | Mastered Data Structures & Algorithms — Merge Sort, Quick Sort, BFS, DFS implementations in C; applied to system architecture design problems |
-| **Systems Modeling Expertise** | Advanced proficiency in modeling complex systems using UML, PlantUML, and Mermaid — streamlining software development lifecycles across academic and commercial projects |
-| **CloudX Academic Recognition** | Architected and delivered an enterprise-grade SaaS platform as academic project lead, recognized under faculty mentorship |
-| **Commercial Engineering Delivery** | End-to-end delivery of a production e-commerce platform for a live commercial client as a solo freelance engineer |
+|:---|:---|
+| **Technical Placements Excellence** | Mastered Data Structures & Algorithms — Merge Sort, Quick Sort, BFS, DFS in C; applied to system architecture design |
+| **Systems Modeling Expertise** | Advanced proficiency in UML, PlantUML, and Mermaid for modeling complex systems across academic and commercial projects |
+| **CloudX Academic Recognition** | Architected and delivered an enterprise-grade SaaS platform as project lead under faculty mentorship |
+| **Commercial Engineering Delivery** | End-to-end solo delivery of a production e-commerce platform for a live commercial client |
 
 </div>
+
+<br/>
 
 ---
 
@@ -313,21 +315,22 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 **Amazon Web Services**
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-&nbsp;
-![DevOps and AI on AWS](https://img.shields.io/badge/DevOps%20%26%20AI%20on%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+&nbsp;&nbsp;![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+&nbsp;&nbsp;![DevOps and AI on AWS](https://img.shields.io/badge/DevOps%20%26%20AI%20on%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 <br/>
 
 **Meta**
 
-![Meta Back-End Developer](https://img.shields.io/badge/Meta%20Back--End%20Developer%20Professional%20Certificate-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+&nbsp;&nbsp;![Meta Back-End Developer](https://img.shields.io/badge/Meta%20Back--End%20Developer%20Professional%20Certificate-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 <br/>
 
 **Oracle**
 
-![Oracle Database Certified](https://img.shields.io/badge/Oracle%20Database%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+&nbsp;&nbsp;![Oracle Database Certified](https://img.shields.io/badge/Oracle%20Database%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<br/>
 
 ---
 
@@ -347,6 +350,8 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 </div>
 
+<br/>
+
 ---
 
 ## ◈ GitHub Analytics
@@ -355,9 +360,9 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaybe05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=5B21B6&text_color=c4b5fd&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaybe05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=5B21B6&text_color=c4b5fd&include_all_commits=true&count_private=true&rank_icon=github"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybe05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=c4b5fd&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybe05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=c4b5fd&langs_count=8"/>
 
 </div>
 
@@ -365,9 +370,11 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kaybe05&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7C3AED&fire=5B21B6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9" />
+<img src="https://streak-stats.demolab.com?user=kaybe05&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7C3AED&fire=5B21B6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9&stroke=7C3AED"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -377,9 +384,11 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaybe05&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaybe05&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<br/>
 
 ---
 
@@ -389,9 +398,11 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 <div align="center">
 
-[![Kritarth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaybe05&bg_color=0f0c29&color=c4b5fd&line=7C3AED&point=ffffff&area=true&area_color=5B21B6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kritarth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaybe05&bg_color=0f0c29&color=c4b5fd&line=7C3AED&point=ffffff&area=true&area_color=5B21B6&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<br/>
 
 ---
 
@@ -404,10 +415,14 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaybe05/kaybe05/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaybe05/kaybe05/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kaybe05/kaybe05/output/github-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kaybe05/kaybe05/output/github-snake-dark.svg" />
 </picture>
 
+> ⚙️ **Snake setup required** — see [`/.github/workflows/snake.yml`](.github/workflows/snake.yml) in this repo to enable the animation.
+
 </div>
+
+<br/>
 
 ---
 
@@ -417,6 +432,7 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 ```yaml
 current_focus:
+
   learning:
     - Advanced Cloud Orchestration Patterns
     - Microservices Architecture & Service Mesh Design
@@ -429,10 +445,12 @@ current_focus:
     - Interactive 3D Web Graphics with React Three Fiber
 
   open_to:
-    - Full-time Software Engineering roles (Backend / Full-Stack)
+    - Full-time Software Engineering roles  [ Backend / Full-Stack ]
     - Cloud-native & DevOps engineering positions
     - Enterprise product engineering at scale
 ```
+
+<br/>
 
 ---
 
@@ -442,7 +460,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:Insert-Email)
+[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kritarth-bijalwann)
 &nbsp;
@@ -451,6 +469,8 @@ current_focus:
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
+
+<br/>
 
 ---
 
