@@ -6,7 +6,7 @@
 
 <br>
 
-![Computer Science](https://img.shields.io/badge/B.Tech_Computer_Science-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Information Technology](https://img.shields.io/badge/B.Tech_Computer_Science-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Manipal University Jaipur](https://img.shields.io/badge/Manipal_University_Jaipur-1a0b2e?style=for-the-badge&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/India-7b2cbf?style=for-the-badge&logo=map-marker&logoColor=white)
 
