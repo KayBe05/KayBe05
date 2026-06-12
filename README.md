@@ -6,7 +6,7 @@
 
 <br>
 
-![Information Technology](https://img.shields.io/badge/B.Tech_Computer_Science-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Information Technology](https://img.shields.io/badge/B.Tech_Information_Technology-4B0082?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Manipal University Jaipur](https://img.shields.io/badge/Manipal_University_Jaipur-1a0b2e?style=for-the-badge&logo=academia&logoColor=white)
 ![Location](https://img.shields.io/badge/India-7b2cbf?style=for-the-badge&logo=map-marker&logoColor=white)
 
@@ -53,7 +53,7 @@ My expertise lies in navigating the complete software development lifecycle—fr
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,sqlite,mysql" alt="Backend">
 
 #### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode" alt="Tools">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,insomnia,postman,vscode" alt="Tools">
 
 </div>
 
@@ -140,18 +140,11 @@ An institutional communication platform engineered to modernize campus announcem
 ### ✦ Experience
 
 **Software Developer (Freelance)**
-*Bari Foods* • Aug 2025 – Present
+*Bari Foods* • Aug 2025 – Jan 2026
 * Engineered a complete e-commerce platform using Django REST Framework and Vanilla JavaScript.
 * Designed dynamic cart states, secure checkout pipelines, and user profile modules.
 * Optimized API response times and implemented asynchronous client-side rendering.
 * **Skills:** Django, Python, JavaScript, REST APIs, E-Commerce Architecture.
-
-**Project Lead & Architect (Academic PBL)**
-*Manipal University Jaipur* • 2025 – 2026
-* Mentored by Mr. Anurag Bhatnagar, architected and developed **CloudX**, an enterprise-grade containerization platform.
-* Designed multi-tenant backend infrastructure and orchestrated isolated Docker environments.
-* Integrated Monaco editor and interactive web terminals for remote code execution.
-* **Skills:** Docker, Python, React, Cloud Orchestration, System Design.
 
 ---
 
@@ -174,8 +167,6 @@ An institutional communication platform engineered to modernize campus announcem
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-1a0b2e?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database_Certified-4B0082?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Software_Engineering-7b2cbf?style=for-the-badge&logo=nptel&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-9370DB?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
