@@ -344,8 +344,6 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/kaybe05)
 &nbsp;
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://hackerearth.com/@kaybe05)
-&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/kaybe05)
 
 </div>
@@ -360,7 +358,7 @@ Led the architecture and development of **CloudX**, an enterprise-grade containe
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaybe05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=5B21B6&text_color=c4b5fd&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaybe05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&icon_color=5B21B6&text_color=c4b5fd&rank_icon=github"/>
 &nbsp;&nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaybe05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=7C3AED&text_color=c4b5fd&langs_count=8"/>
 
