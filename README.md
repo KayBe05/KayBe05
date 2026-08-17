@@ -64,7 +64,7 @@ I build with **Docker, Linux, and Python** on the backend and **React, Vite, and
 
 <div align="center">
 
-| 🎯 Open To | Details |
+|  Open To | Details |
 |:---|:---|
 | **Full-time Roles** | Software Engineering — Backend / Full-Stack |
 | **Cloud & DevOps** | Cloud-native, containerization, orchestration positions |
