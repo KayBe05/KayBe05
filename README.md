@@ -16,7 +16,7 @@
 
 ![B.Tech IT](https://img.shields.io/badge/B.Tech%20Information%20Technology-Manipal%20University%20Jaipur-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;&nbsp;
-![Location](https://img.shields.io/badge/📍%20India-302b63?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/%20INDIA-302b63?style=flat-square&logoColor=white)
 
 </div>
 
@@ -28,7 +28,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritarth-bijalwann)
 &nbsp;
-[![Email](https://img.shields.io/badge/◈%20Email-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/◈%20Email-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritarth.bijalwann@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaybe05)
 
