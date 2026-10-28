@@ -118,10 +118,10 @@ I build with **Docker, Linux, and Python** on the backend and **React, Vite, and
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Containerization** | `▰▰▰▰▰ Advanced` | Designing isolated, scalable environments using Docker; managing multi-container architectures via Docker Compose |
-| **Cloud Orchestration** | `▰▰▰▰▰ Advanced` | Orchestrating enterprise-grade SaaS environments; multi-tenant resource management and dynamic provisioning |
-| **CI/CD & Deployment** | `▰▰▰▰░ Intermediate` | Automated workflow optimization, environment configuration, and deployment strategies for Python/Node.js stacks |
-| **Infrastructure Management** | `▰▰▰▰▰ Advanced` | Configuring secure SSH access, remote IDE setups, and real-time telemetry integration |
+| **Containerization** | `Advanced` | Designing isolated, scalable environments using Docker; managing multi-container architectures via Docker Compose |
+| **Cloud Orchestration** | `Advanced` | Orchestrating enterprise-grade SaaS environments; multi-tenant resource management and dynamic provisioning |
+| **CI/CD & Deployment** | `Intermediate` | Automated workflow optimization, environment configuration, and deployment strategies for Python/Node.js stacks |
+| **Infrastructure Management** | `Advanced` | Configuring secure SSH access, remote IDE setups, and real-time telemetry integration |
 
 </div>
 
